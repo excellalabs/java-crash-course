@@ -1,4 +1,4 @@
-# Integration
+# Integration and Microservices
 
 Learn how to containerize, deploy, and integrate your Spring Boot app with other microservices. Coming soon!
 

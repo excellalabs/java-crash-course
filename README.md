@@ -2,24 +2,29 @@
 
 **Version 1.0**
 
-This is a reference guide (specifically for junior/mid-level developers) to learn the most essential Java / Spring concepts in order to be able to contribute as a Java developer when staffed.
-
 ###### If you have any questions / concerns, need further assistance, or need to expense any online courses, please contact your supervisor or the Java Capabilities Area Lead: [kenneth.russell@excella.com](mailto:kenneth.russell@excella.com).
 
-## How This Works
+## About
 
-The **Java / Spring Crash Course** is not intended to be work like a typical online course. Each section / topic is meant to be **à la carte**; pick and choose topics / concepts you're unfamiliar with to fill in any knowledge gaps you may have.
+<u>**What is this for?**</u><br />
+This is a reference guide to learn the most essential Java and Spring Boot concepts in order to be able to contribute as a Java developer when staffed.
 
-**Are you coming from another language and need to learn the most essential basics?**<br/>
-Fundamental concepts that you *should* know before you are staffed on a project can be found in [Essential Java](java.md) and [Spring Boot](spring.md).
+<u>**Who is this for?**</u><br />
+Junior / Mid-Level developers who have experience with other languages and would like to learn Java and Spring Boot.
 
-**Already have a good grasp of the basics?**<br/>
-Try learning more [Advanced Concepts](advanced.md) that are commonly used on most projects.
+<u>**How does this work?**</u><br/>
+The Java / Spring Crash Course is not intended to be work like a typical online course. Each section / topic is meant to be *à la carte*; pick and choose topics / concepts you're unfamiliar with to fill in any knowledge gaps you may have.
 
-**Want to understand how a Spring Boot microservice connects with everything else?**<br/>
-We recommend you read through the [Integration](integration.md) section.
+<u>**Need to learn the most bare-bone concepts required to contribute as a Java dev?**</u><br/>
+Everything under **[Core Concepts](#core-concepts)** are things you *should* understand before starting as a Java developer on a project. See: **[Essential Java](java.md)** and **[Spring Boot](spring.md)**.
 
-## Topics
+<u>**Have a good grasp of the basics?**</u><br/>
+Learn some **[advanced topics](advanced.md)** that are commonly used on most projects.
+
+<u>**Want to learn how Spring Boot connects with everything else?**</u><br/>
+We recommend you read through the **[Integration and Microservices](integration.md)** section.
+
+## Core Concepts
 
 ### 1) [Essential Java](java.md#essential-java)
 
@@ -44,22 +49,29 @@ The most basic. We recommend going through / understanding **[Essential Java](ja
 - [Serialization](spring.md#serialization)
 - [Migrations](spring.md#migrations)
 
+## Further Learning
+
 ### 3) [Advanced](advanced.md#advanced)
 
-Commonly used concepts, libraries, and tools used when building a typical Java Spring Boot API.
+Commonly used concepts, libraries, and tools used when building a typical Java Spring Boot microservice.
+
+---
 
 - **[Java](advanced.md#java)**
 	- [Advanced Bean Validation](advanced.md#advanced-bean-validation)
 	- [Streams API](advanced.md#streams-api)
 	- [Reactive API](advanced.md#reactive-api)
 
+---
 
 - **[Spring Boot](advanced.md#spring-boot)**
 	- [JPA / Hibernate (with Spring Boot)](advanced.md#jpa--hibernate)
 	- [Integration Testing](advanced.md#integration-testing)
 	- [Spring Security](advanced.md#spring-security)
 
-### 4) [Integration](integration.md#integration)
+---
+
+### 4) [Integration and Microservices](integration.md#integration-and-microservices)
 
 Learn how to containerize, deploy, and integrate your Spring Boot app with other microservices. Coming soon!
 
