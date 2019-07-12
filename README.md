@@ -40,7 +40,7 @@ This part of the guide will help you understand all the core pieces of a Spring 
 - **[Spring Boot](advanced.md#spring-boot)**
 	- [JPA / Hibernate (with Spring Boot)](advanced.md#jpa--hibernate)
 	- [Integration Testing](advanced.md#integration-testing)
-	- [Spring Security](#advanced.md#spring-security)
+	- [Spring Security](advanced.md#spring-security)
 
 ### [Integration](integration.md)
 
