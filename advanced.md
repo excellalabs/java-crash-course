@@ -1,6 +1,6 @@
-# Advanced Topics
+# Advanced
 
-
+Commonly used concepts, libraries, and tools used when building a typical Java Spring Boot API.
 
 ## Java
 

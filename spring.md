@@ -1,6 +1,6 @@
 # Spring Boot
 
-This part of the guide will help you understand all the core pieces of a Spring Boot application. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
+This section will help you understand all the core pieces of a Spring Boot application. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
 
 ### What is Spring Boot?
 
