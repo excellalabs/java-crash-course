@@ -24,6 +24,7 @@ If you're still new to development and need to learn core foundations / basic co
 
 This part of the guide will help you understand all the core pieces of a Spring Boot application. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
 
+- [What is Spring Boot?](spring.md#what-is-spring-boot)
 - [Gradle](spring.md#gradle)
 - [Beans](spring.md#beans)
 - [Design Patterns](spring.md#design-patterns)
