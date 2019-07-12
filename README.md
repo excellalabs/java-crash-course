@@ -45,7 +45,7 @@ If you're still new to development and need to learn core foundations / basic co
 
 ### 2) [Spring Boot](spring.md#spring-boot)
 
-The most basic. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
+This section will help you understand all the core pieces of a Spring Boot application. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
 
 - [What is Spring Boot?](spring.md#what-is-spring-boot)
 - [Gradle](spring.md#gradle)
