@@ -6,82 +6,30 @@ Commonly used concepts, libraries, and tools used when building a typical Java S
 
 ### Advanced Bean Validation
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+TODO
 
 
 ### Streams API
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+TODO
 
-### Reactive API
+## Reactive Programming
 
-* WebFlux
-* Reactor
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+We currently have an existing guide to reactive programming on the [Excella Labs's GitHub](https://github.com/excellalabs/) organization page. See: **[Reactive in Java](https://github.com/excellalabs/reactive-in-java)**.
+
+**Additional Resources:**<br/>
+* [Reactive Streams](http://www.reactive-streams.org)
 
 ## Spring Boot
 
 ### JPA / Hibernate
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+TODO
 
 ### Integration Testing
 
-* Point 1
-* Point 2
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+TODO
 
 ### Spring Security
 
-* General
-* OAuth
-* JWT
-* Point 3
-* Point 4
-* Point 5
-* Point 6
-* Point 7
-* Point 8
-* Point 9
-* Point 10
+TODO
