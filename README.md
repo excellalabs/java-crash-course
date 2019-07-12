@@ -35,10 +35,10 @@ This part of the guide will help you understand all the core pieces of a Spring 
 
 - **[Java](advanced.md#java)**
 	- [Advanced Bean Validation](advanced.md#advanced-bean-validation)
-	- [Streams API](advanced_topics.md#streams-api)
+	- [Streams API](advanced.md#streams-api)
 	- [Reactive API](advanced.md#reactive-api)
-- **[Spring Boot](advanced.md#spring)**
-	- [JPA / Hibernate (with Spring Boot)](advanced.md#jpa-hibernate)
+- **[Spring Boot](advanced.md#spring-boot)**
+	- [JPA / Hibernate (with Spring Boot)](advanced.md#jpa--hibernate)
 	- [Integration Testing](advanced.md#integration-testing)
 	- [Spring Security](#advanced.md#spring-security)
 
