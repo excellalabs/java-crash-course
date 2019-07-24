@@ -96,7 +96,7 @@ public class Employee extends Person {
   
   public String getFullNameAndTitle() {
   // name is defined in parent class
-  	return this.name + " " + this.title; 
+  	return this.getName() + " " + this.title; 
   }
 }
 ```
