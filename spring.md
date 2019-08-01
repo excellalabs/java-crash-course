@@ -58,6 +58,10 @@ The primary testing framework for a Spring Boot application is JUnit.
 
 See: **[Testing in Spring Boot (JUnit)](https://www.baeldung.com/spring-boot-testing)**
 
+Writing unit tests may require mocking dependencies. One popular mocking framework for unit tests written in Java is Mockito.
+
+See: **[Mockito Tutorial](https://www.baeldung.com/mockito-series)**
+
 ### Migrations
 
 Database migrations allow developers to continuously remodel database schemas. A change in a table, column, etc of a database can be managed by version control. If any changes in a migration break your application, it is very easy to rollback to the previous version.
