@@ -103,6 +103,54 @@ public class Employee extends Person {
 **[Inheritance](https://www.w3schools.com/java/java_inheritance.asp)**: Creating new classes that share some of the attributes of existing classes. This lets us build on previous work without reinventing the wheel.
 
 ```java
+// COMPOSITION
+public class Job { 
+  private String role; 
+  private long salary; 
+  private int id; 
+
+  public String getRole() { 
+    return role; 
+  }
+
+  public void setRole(String role) { 
+    this.role = role; 
+  }
+
+  public long getSalary() { 
+    return salary; 
+  }
+
+  public void setSalary(long salary) { 
+    this.salary = salary; 
+  }
+
+  public int getId() { 
+    return id; 
+  }
+
+  public void setId(int id) { 
+    this.id = id; 
+  }
+} 
+
+public class Person { 
+  // composition: has-a relationship 
+  private Job job; 
+
+  public Person(){ 
+    this.job = new Job(); 
+    job.setSalary(1000L); 
+  }
+
+  public long getSalary() { 
+    return job.getSalary(); 
+  } 
+}
+```
+**[Composition](https://www.javatpoint.com/q/5101/what-is-composition-in-java?)**: Composition is the design technique to implement has-a relationship in classes. We can use java inheritance or Object composition for code reuse. 
+
+```java
 // POLYMORPHISM
 public class Employee extends Person {
   public Device[] getDevices() {
