@@ -2,6 +2,11 @@
 
 This section will help you understand all the core pieces of a Spring Boot application. We recommend going through / understanding **[Essential Java](java.md)** concepts before learning the following topics.
 
+### Overview
+The following is an Excella-made PowerPoint presentation, covering the basics of Spring Boot:
+
+**[Spring Boot Crash Course (.pptx)](assets/presentations/Spring_Boot_CC.pptx)** 
+
 ### What is Spring Boot?
 
 Spring Boot is a Java-based framework used to create a microservice. It is considered to be the de-facto standard for building Java-based web services.
